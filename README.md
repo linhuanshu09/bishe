@@ -1,9 +1,9 @@
 # bishe
 毕业设计，Springboot,SSM,vue,微信小程序，部分带论文，有需要的联系QQ：380223251
 --------------------------------------------------------------------------------------
-Springboot_Vue土特产商城
-Springboot博客系统
-Springboot高铁车票销售系统
+# Springboot_Vue土特产商城
+# Springboot博客系统
+# Springboot高铁车票销售系统
 Springboot婚纱预约系统
 Springboot科技档案管理系统
 Springboot模仿哔哩哔哩视频网站
